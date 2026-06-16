@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thiago Lopes dos santos
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thiago Lopes dos Santos
 ================================================================================================================================================
 
 Student of development of System
@@ -9,7 +9,7 @@ Atualmente estou focado em aprender cada vez mais
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Mywebsite](http://thiagdz49.github.io/)
 * ✉️  You can contact me at [thiago999trabalho@gmail.com](mailto:thiago999trabalho@gmail.com)
-* 🧠  I'm currently learning Java, JS and
+* 🧠  I'm currently learning Java and JS
 * 👥  I'm looking to collaborate on Projects
 
 <p align="left">
