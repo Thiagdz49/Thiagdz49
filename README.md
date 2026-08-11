@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student of development of System
 --------------------------------
-
+<p align="center">
+  <img src="./thiago_lopes_github_readme.gif" alt="Thiago Lopes - Software Developer">
+</p>
 Atualmente estou focado em aprender cada vez mais
 
 * 🌍  I'm based in Brazil
