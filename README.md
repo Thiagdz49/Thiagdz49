@@ -10,8 +10,6 @@ Olá! Eu sou **Thiago Lopes**, tenho **16 anos** e sou estudante de **Desenvolvi
 
 Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos por meio de projetos práticos, estudos e desafios de programação.
 
-
-
 Além da área de tecnologia, também sou **músico-estudante da Fundec Sorocaba**, onde estudo **violino**. A música faz parte importante da minha formação e contribui para o desenvolvimento de disciplina, concentração, organização e dedicação aos estudos.
 ## 🎯 Objetivos
 - 🚀 Terminar Ensino médio técnico AMS e faculdade
@@ -48,10 +46,10 @@ Sistema desenvolvido para cadastro de livros.
 
 * 🖥️  Veja meu Portifólio [Mywebsite](http://thiagdz49.github.io/)
 
-#📊GitHub Stats
+# 📊GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagdz49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagdz49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagdz49&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
