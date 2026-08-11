@@ -42,16 +42,13 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 # 🚀 Projetos
 ### 📦 Sistema de Gestão de Produtos
 Sistema desenvolvido para cadastro de livros.
-
 **Tecnologias:** C#, SQL Server, Windows Forms
 
 [🔗 Ver projeto](LINK)
 
 * 🖥️  Veja meu Portifólio [Mywebsite](http://thiagdz49.github.io/)
 
-# GitHub Stats
-
-<h2 align="center">📊 GitHub Statistics</h2>
+#📊GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagdz49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -66,7 +63,7 @@ Sistema desenvolvido para cadastro de livros.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagdz49&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
-<a href="http://www.github.com/Thiagdz49"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagdz49&stroke=facc15&background=27272a&ring=64748b&fire=64748b&currStreakNum=facc15&currStreakLabel=64748b&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
 
 # Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago_.violinista) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981345956) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago999trabalho@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dos-santos-4808463b9/)
