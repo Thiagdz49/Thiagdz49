@@ -32,7 +32,12 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 * 🐘 **PHP** — Desenvolvimento Back-end
 * 🗄️ **MySQL / SQL** — Banco de dados e consultas
 * 🔧 **Git e GitHub** — Versionamento e gerenciamento de projetos
-
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
+</p>
 
 # 🚀 Projetos
 ### 📦 Sistema de Gestão de Produtos
@@ -42,11 +47,24 @@ Sistema desenvolvido para cadastro de livros.
 
 [🔗 Ver projeto](LINK)
 
-<b>My GitHub Stats</b>
+* 🖥️  Veja meu Portifólio [Mywebsite](http://thiagdz49.github.io/)
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+# GitHub Stats
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagdz49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagdz49&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagdz49&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagdz49&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
 
 <a href="http://www.github.com/Thiagdz49"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagdz49&stroke=facc15&background=27272a&ring=64748b&fire=64748b&currStreakNum=facc15&currStreakLabel=64748b&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
