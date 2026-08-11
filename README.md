@@ -1,30 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thiago Lopes dos Santos
-================================================================================================================================================
-
-Student of development of System
---------------------------------
 <p align="center">
   <img src="./thiago_lopes_github_readme.gif" alt="Thiago Lopes - Software Developer">
 </p>
-Atualmente estou focado em aprender cada vez mais
 
-* 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Mywebsite](http://thiagdz49.github.io/)
-* ✉️  You can contact me at [thiago999trabalho@gmail.com](mailto:thiago999trabalho@gmail.com)
-* 🧠  I'm currently learning Java and JS
-* 👥  I'm looking to collaborate on Projects
+Oi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) sou Thiago Lopes dos Santos
+================================================================================================================================================
+## 👨‍💻 Sobre mim
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-</p>
+Olá! Eu sou **Thiago Lopes**, tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** na **Etec Fernando Prestes**, atualmente no **2º ano**.
 
-### Socials
+Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos por meio de projetos práticos, estudos e desafios de programação.
 
-<p align="left"> <a href="https://www.github.com/Thiagdz49" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Thiago dos santos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/thidz49_violin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/Thiagdz49" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Thiagdz49?logo=github&style=for-the-badge&color=84cc16&labelColor=27272a" /></a>
-### Badges
+
+
+Além da área de tecnologia, também sou **músico-estudante da Fundec Sorocaba**, onde estudo **violino**. A música faz parte importante da minha formação e contribui para o desenvolvimento de disciplina, concentração, organização e dedicação aos estudos.
+## 🎯 Objetivos
+- 🚀 Terminar Ensino médio técnico AMS e faculdade
+
+- 💼 Conseguir minha primeira experiência profissional na área de tecnologia
+- 🧠 Aprofundar meus conhecimentos em programação e em tecnologia
+- 🛠️ Desenvolver projetos cada vez mais completos e profissionais
+- 📈 Construir uma carreira na área de desenvolvimento de software
+
+
+## 🛠 Skills
+Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvimento, incluindo:
+
+* ☕ **Java** — Programação Orientada a Objetos e desenvolvimento de aplicações
+* 💻 **C#** — Desenvolvimento de aplicações e projetos acadêmicos
+* 🌐 **HTML, CSS e JavaScript** — Desenvolvimento Web
+* ⚛️ **React / React Native** — Desenvolvimento de interfaces e aplicações
+* 🐘 **PHP** — Desenvolvimento Back-end
+* 🗄️ **MySQL / SQL** — Banco de dados e consultas
+* 🔧 **Git e GitHub** — Versionamento e gerenciamento de projetos
+
+
+# 🚀 Projetos
+### 📦 Sistema de Gestão de Produtos
+Sistema desenvolvido para cadastro de livros.
+
+**Tecnologias:** C#, SQL Server, Windows Forms
+
+[🔗 Ver projeto](LINK)
 
 <b>My GitHub Stats</b>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 <a href="http://www.github.com/Thiagdz49"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagdz49&stroke=facc15&background=27272a&ring=64748b&fire=64748b&currStreakNum=facc15&currStreakLabel=64748b&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+# Contatos
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago_.violinista) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981345956) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago999trabalho@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dos-santos-4808463b9/)
