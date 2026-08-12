@@ -3,33 +3,32 @@
 </p>
 
 Oi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) sou Thiago Lopes dos Santos
-================================================================================================================================================
-## 👨‍💻 Sobre mim
+
+# 👨‍💻 Sobre mim
 
 Olá! Eu sou **Thiago Lopes**, tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** na **Etec Fernando Prestes**, atualmente no **2º ano**.
-
 Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando constantemente aprimorar meus conhecimentos por meio de projetos práticos, estudos e desafios de programação.
-
 Além da área de tecnologia, também sou **músico-estudante da Fundec Sorocaba**, onde estudo **violino**. A música faz parte importante da minha formação e contribui para o desenvolvimento de disciplina, concentração, organização e dedicação aos estudos.
-## 🎯 Objetivos
-- 🚀 Terminar Ensino médio técnico AMS e faculdade
 
-- 💼 Conseguir minha primeira experiência profissional na área de tecnologia
-- 🧠 Aprofundar meus conhecimentos em programação e em tecnologia
-- 🛠️ Desenvolver projetos cada vez mais completos e profissionais
-- 📈 Construir uma carreira na área de desenvolvimento de software
+## 🎯 Objetivos
+- Terminar Ensino médio técnico AMS e faculdade
+
+-  Conseguir minha estágio no primeiro ano de faculdade
+-  Aprofundar meus conhecimentos em programação e em tecnologia
+-  Desenvolver projetos cada vez mais completos e profissionais
+-  Construir uma carreira na área de desenvolvimento de software
 
 
 ## 🛠 Skills
 Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvimento, incluindo:
 
-* ☕ **Java** — Programação Orientada a Objetos e desenvolvimento de aplicações
-* 💻 **C#** — Desenvolvimento de aplicações e projetos acadêmicos
-* 🌐 **HTML, CSS e JavaScript** — Desenvolvimento Web
-* ⚛️ **React / React Native** — Desenvolvimento de interfaces e aplicações
-* 🐘 **PHP** — Desenvolvimento Back-end
-* 🗄️ **MySQL / SQL** — Banco de dados e consultas
-* 🔧 **Git e GitHub** — Versionamento e gerenciamento de projetos
+* **Java** — Programação Orientada a Objetos e desenvolvimento de aplicações
+* **C#** — Desenvolvimento de aplicações e projetos acadêmicos
+* **HTML, CSS e JavaScript** — Desenvolvimento Web
+* **React / React Native** — Desenvolvimento de interfaces e aplicações
+* **PHP** — Desenvolvimento Back-end
+* **MySQL / SQL** — Banco de dados e consultas
+  
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
@@ -47,12 +46,6 @@ Sistema desenvolvido para cadastro de livros.
 * 🖥️  Veja meu Portifólio [Mywebsite](http://thiagdz49.github.io/)
 
 # 📊GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagdz49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagdz49&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagdz49&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
