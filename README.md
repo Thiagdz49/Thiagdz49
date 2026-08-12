@@ -2,8 +2,6 @@
   <img src="./thiago_lopes_github_readme.gif" alt="Thiago Lopes - Software Developer">
 </p>
 
-Oi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) sou Thiago Lopes dos Santos
-==========================================================================================================================================
 # 👨‍💻 Sobre mim
 
 Olá! Eu sou **Thiago Lopes**, tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** na **Etec Fernando Prestes**, atualmente no **2º ano**.
@@ -25,7 +23,6 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 * **Java** — Programação Orientada a Objetos e desenvolvimento de aplicações
 * **C#** — Desenvolvimento de aplicações e projetos acadêmicos
 * **HTML, CSS e JavaScript** — Desenvolvimento Web
-* **React / React Native** — Desenvolvimento de interfaces e aplicações
 * **PHP** — Desenvolvimento Back-end
 * **MySQL / SQL** — Banco de dados e consultas
 * **English** — Estou desenvolvendo cada dia
@@ -38,7 +35,7 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 </p>
 
 # 🚀 Projetos
-### 📦 Sistema de Gestão de Produtos
+### 📦 Sistema de Gestão de Livros
 Sistema desenvolvido para cadastro de livros.
 **Tecnologias:** C#, SQL Server, Windows Forms
 
