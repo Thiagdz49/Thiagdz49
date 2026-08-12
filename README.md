@@ -3,7 +3,7 @@
 </p>
 
 Oi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) sou Thiago Lopes dos Santos
-
+==========================================================================================================================================
 # 👨‍💻 Sobre mim
 
 Olá! Eu sou **Thiago Lopes**, tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** na **Etec Fernando Prestes**, atualmente no **2º ano**.
@@ -11,12 +11,12 @@ Tenho interesse em **programação, desenvolvimento de software e tecnologia**, 
 Além da área de tecnologia, também sou **músico-estudante da Fundec Sorocaba**, onde estudo **violino**. A música faz parte importante da minha formação e contribui para o desenvolvimento de disciplina, concentração, organização e dedicação aos estudos.
 
 ## 🎯 Objetivos
-- Terminar Ensino médio técnico AMS e faculdade
+- Terminar **Ensino médio técnico AMS** e faculdade
 
--  Conseguir minha estágio no primeiro ano de faculdade
--  Aprofundar meus conhecimentos em programação e em tecnologia
--  Desenvolver projetos cada vez mais completos e profissionais
--  Construir uma carreira na área de desenvolvimento de software
+-  Conseguir **estágio** na área no primeiro ano de faculdade
+-  Aprofundar meus **conhecimentos em programação** e em tecnologia
+-  Desenvolver **projetos** cada vez mais completos e profissionais
+-  **Construir uma carreira** na área de desenvolvimento de software
 
 
 ## 🛠 Skills
@@ -28,6 +28,7 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 * **React / React Native** — Desenvolvimento de interfaces e aplicações
 * **PHP** — Desenvolvimento Back-end
 * **MySQL / SQL** — Banco de dados e consultas
+* **English** — Estou desenvolvendo cada dia
   
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
