@@ -36,12 +36,13 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 
 # 🚀 Projetos
 ### 📦 Sistema de Gestão de Clientes
-Sistema desenvolvido para cadastro de clientes.
-
-**Tecnologias:** PHP, HTML, CSS e JS
 [🔗 Ver projeto](https://github.com/Thiagdz49/crudsimples)
 
-* 🖥️ **Veja meu Portifólio**[Mywebsite](http://thiagdz49.github.io/)
+### 🖥️ Portifolio
+**Veja meu Portifólio**[Mywebsite](http://thiagdz49.github.io/)
+
+###  Robo feito em java
+**Veja meu robô**[Robocode](http://thiagdz49.github.io/)
   
 # 📊GitHub Stats
 <p align="center">
