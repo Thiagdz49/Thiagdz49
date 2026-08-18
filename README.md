@@ -49,7 +49,7 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 [Startup](https://github.com/Thiagdz49/projetoHackteen2025)
 
 ### Cadastro de Funcionários
-[CaFuncionario](https://github.com/Thiagdz49/projetoHackteen2025)
+[CaFuncionario](https://github.com/Thiagdz49/ProjetoCadastraFuncionarios)
   
 # 📊GitHub Stats
 
