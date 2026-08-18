@@ -35,16 +35,21 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 </p>
 
 # 🚀 Projetos
-### 📦 Sistema de Gestão de Clientes
+
+###  Sistema de Gestão de Clientes
 [🔗 Ver projeto](https://github.com/Thiagdz49/crudsimples)
 
-### 🖥️ Portifolio
-**Veja meu Portifólio**[Mywebsite](http://thiagdz49.github.io/)
+###  Portifolio
+[Mywebsite](http://thiagdz49.github.io/)
 
 ###  Robo feito em java
-**Veja meu robô**[Robocode](http://thiagdz49.github.io/)
+[Robocode](https://github.com/Thiagdz49/Robocode)
+
+### Startup - Hackteen em grupo
+[Startup](https://github.com/Thiagdz49/projetoHackteen2025)
   
 # 📊GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Thiagdz49&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
