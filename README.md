@@ -35,14 +35,12 @@ Atualmente, venho desenvolvendo conhecimentos em diferentes áreas do desenvolvi
 </p>
 
 # 🚀 Projetos
-### 📦 Sistema de Gestão de Livros
-Sistema desenvolvido para cadastro de livros.
-**Tecnologias:** C#, SQL Server, Windows Forms
+### 📦 Sistema de Gestão de Clientes
+Sistema desenvolvido para cadastro de clientes.
+**Tecnologias:** PHP, HTML, CSS e JS
+[🔗 Ver projeto](https://github.com/Thiagdz49/crudsimples)
 
-[🔗 Ver projeto](LINK)
-
-* 🖥️  Veja meu Portifólio [Mywebsite](http://thiagdz49.github.io/)
-
+* 🖥️ **Veja meu Portifólio**[Mywebsite](http://thiagdz49.github.io/)
 # 📊GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Thiagdz49&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
